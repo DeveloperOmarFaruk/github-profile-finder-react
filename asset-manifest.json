@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-profile-finder-react/static/css/main.38c5fafb.chunk.css",
+    "main.js": "/github-profile-finder-react/static/js/main.ce0607cf.chunk.js",
+    "main.js.map": "/github-profile-finder-react/static/js/main.ce0607cf.chunk.js.map",
+    "runtime-main.js": "/github-profile-finder-react/static/js/runtime-main.83ae0f22.js",
+    "runtime-main.js.map": "/github-profile-finder-react/static/js/runtime-main.83ae0f22.js.map",
+    "static/js/2.ccd1d999.chunk.js": "/github-profile-finder-react/static/js/2.ccd1d999.chunk.js",
+    "static/js/2.ccd1d999.chunk.js.map": "/github-profile-finder-react/static/js/2.ccd1d999.chunk.js.map",
+    "index.html": "/github-profile-finder-react/index.html",
+    "static/css/main.38c5fafb.chunk.css.map": "/github-profile-finder-react/static/css/main.38c5fafb.chunk.css.map",
+    "static/js/2.ccd1d999.chunk.js.LICENSE.txt": "/github-profile-finder-react/static/js/2.ccd1d999.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83ae0f22.js",
+    "static/js/2.ccd1d999.chunk.js",
+    "static/css/main.38c5fafb.chunk.css",
+    "static/js/main.ce0607cf.chunk.js"
+  ]
+}
